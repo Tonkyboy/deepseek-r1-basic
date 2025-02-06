@@ -2,7 +2,7 @@
 
 # Video
 Video is here, check it out!
-[Text](https://youtu.be/xi8NqNLR3zM)
+[Text]([https://youtu.be/xi8NqNLR3zM](https://youtu.be/PhUQCETR-w4))
 
 ## Basic Code
 -> deepseek-r1.py
